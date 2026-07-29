@@ -5,3 +5,5 @@ This is the file created by user1
 updated as part of branch 2
 updated from branch1 again
 **************************
+
+this is the last line added in branch2

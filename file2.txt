@@ -1,1 +1,3 @@
 This is the file created by user2
+
+updated as part of branch2
